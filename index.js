@@ -25,7 +25,7 @@
 
 
 document.addEventListener("DOMContentLoaded", function() {
-  const slideDuration = 2000; // Time in milliseconds for each slide1
+  const slideDuration = 4000; // Time in milliseconds for each slide1
   const delayBetweenSlides = 1000; // Time in milliseconds between each slide
   const images = document.querySelectorAll(".img-icon");
   function slideImages() {

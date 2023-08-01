@@ -140,7 +140,7 @@ section {
 
 .show {
   opacity: 1 !important;
-  animation: slideUp 2s linear infinite;
+  animation: slideUp 4s linear infinite;
 }
 
 @keyframes slideUp {
